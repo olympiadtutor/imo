@@ -8,7 +8,7 @@ links:
     - url: /static_files/presentations/lec.zip
       name: notes
     - url: /static_files/presentations/code.zip
-      name: codes
+      name: lecture
     - url: https://google.com
       name: slides
 ---

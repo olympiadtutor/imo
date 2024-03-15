@@ -7,7 +7,7 @@ baseurl: "/imo" # the subpath of your site, e.g. /blog/
 url: "https://olympiadtutor.github.io" # the base hostname & protocol for your site
 
 schoolname: "Olympiad Tutor"
-schoolurl: "https://olympiadtutor.github.io/"
+schoolurl: "https://olympiadtutor.github.io"
 twitter_username: username 
 
 address: |
